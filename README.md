@@ -9,9 +9,11 @@
 # Desktop view
 ![Screenshot 2022-05-20 at 15 20 13](https://user-images.githubusercontent.com/48878455/169536681-6f43412f-5eb4-4615-a94e-86ae6b720e2d.png)
 
-* Mobile first, responsive design
-* Implemented Modal when button is clicked
-* Closing modal when send button is clicked
+
+## Features
+⚡️ Mobile first, responsive design\
+⚡️ Implemented Modal when button is clicked\
+⚡️ Closing modal when send button is clicked\
 
 If I had more time...
 - I would make another modal to say 'Your message was sent' when 'send' button is clicked
